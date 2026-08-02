@@ -1,4 +1,4 @@
-# MyNeovim
+# NeoVIM
 
 A modern Neovim distribution built with [lazy.nvim](https://github.com/folke/lazy.nvim), organized like LazyVim/NvChad: a `dist/` layer for defaults and feature flags, a `core/` layer for base editor configuration, and a modular `plugins/` tree.
 
@@ -11,7 +11,7 @@ A modern Neovim distribution built with [lazy.nvim](https://github.com/folke/laz
 ## Installation
 
 ```sh
-git clone https://github.com/YOUR_USER/MyNeovim ~/.config/nvim
+git clone https://github.com/YOUR_USER/NeoVIM ~/.config/nvim
 nvim "+Lazy sync"
 ```
 
